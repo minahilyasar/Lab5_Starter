@@ -7,3 +7,9 @@ Ans. No, unit testing is most useful for checking small, isolated pieces of logi
 
 Q2. Would you use a unit test to test the “max message length” feature of a messaging application? Why or why not? For this question, assume the “max message length” feature prevents the user from typing more than 80 characters.
 Ans. Yes unit testing will be helpful as the logic for this singular component is simple. If the message is longer than 80 characters you reject it. You can easily unit test to see if a message is within the acceptable charachter limit or not. 
+
+Links for my pages:
+
+https://minahilyasar.github.io/Lab5_Starter/expose.html
+
+https://minahilyasar.github.io/Lab5_Starter/explore.html
